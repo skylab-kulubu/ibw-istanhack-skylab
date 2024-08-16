@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6DXBmA8wVMKyDRly31wAlmdXjeZv+ok5Ok7hnGSJ60xnMYORuWGURXtSSW7nuFPY8hZ5g2sV9NUXelBO8lu2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zomt\\Desktop\\nftProject\\nftProject\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zomt\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\zomt\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\zomt\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
